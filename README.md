@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi There
 
-<!--
-**YudhaHarista/YudhaHarista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=yudhaharista&theme=nightowl&card_width=467)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![nightowl][nightowl] 
+
+[nightowl]: https://github-readme-stats.vercel.app/api?username=yudhaharista&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+
+![yudhaharista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaharista&theme=nightowl&show_icons=true&hide_border=false&layout=compact&card_width=467)
+
+</div>
