@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yudha Harista</h1>
-<h3 align="center">A passionate frontend developer from Indoensia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=yudhaharista&theme=nightowl&card_width=467)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YudhaHarista&theme=nightowl)](https://git.io/streak-stats)
 
-![nightowl][nightowl] 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=yudhaharista&theme=nightowl" alt="GitHub Streak">
+</a>
 
-[nightowl]: https://github-readme-stats.vercel.app/api?username=yudhaharista&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YudhaHarista&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl&card_width=495)
 
-![yudhaharista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaharista&theme=nightowl&show_icons=true&hide_border=false&layout=compact&card_width=467)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudhaHarista&theme=nightowl&show_icons=true&hide_border=false&layout=compact&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
