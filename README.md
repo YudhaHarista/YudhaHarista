@@ -4,6 +4,7 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=yudhaharista&theme=nightowl&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YudhaHarista&theme=nightowl)](https://git.io/streak-stats)
 
 ![nightowl][nightowl] 
 
